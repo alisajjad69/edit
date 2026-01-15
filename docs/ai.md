@@ -507,3 +507,4 @@
 * [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
+* [The Spinner Wheel](https://thespinnerwheel.com/) - Online customizable spinner wheel for random selection and decision-making
